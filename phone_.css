@@ -1,0 +1,21 @@
+body{
+     background-color: red;
+}
+/* home section  */
+#home
+{
+
+}
+
+/* services section  */
+#services
+{
+     flex-direction: column;
+}
+
+/* client section */
+
+
+/* contact us section  */
+
+/* footer */
